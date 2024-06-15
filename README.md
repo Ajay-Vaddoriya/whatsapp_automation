@@ -5,7 +5,8 @@
 WhatsApp Bulk Messaging Bot with Selenium is a Python-based automation tool that enables users to send customized messages and images to a large number of recipients on WhatsApp. This project utilizes the Selenium library to interact with the WhatsApp Web interface, allowing users to automate the messaging process without the need for WhatsApp Business API credentials.
 With a simple user interface, users can upload a CSV file containing contact numbers and choose an image of their preference to be sent as part of the message. This project is designed to simplify and streamline the process of sending bulk messages, making it ideal for businesses, community organizers, event planners, and anyone looking to communicate with a large audience efficiently.
 
-![whatsapp](https://github.com/Milan2698/WhatsappBot/assets/99161501/8ed5ec1b-e4da-460a-8daa-5e41b2a88b16)
+![image](https://github.com/Ajay-Vaddoriya/whatsapp_automation/assets/107237689/84f219d0-976a-4b31-badc-e401d1b6c054)
+
 
 ## Features:
 
