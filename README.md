@@ -43,13 +43,13 @@ Click on the "Send" button to initiate the bulk messaging process.
 Monitor the progress of the messaging campaign through the interface.
 
 ## Important Note:
-Please use this tool responsibly and ensure that you have proper consent from recipients before sending them messages. WhatsApp has strict policies regarding bulk messaging, and misuse may result in account suspension or other consequences. The developers of this project are not responsible for any misuse of the tool.
+Please be sure to use this tool carefully and make sure that you have proper consent from recipients before sending them messages. WhatsApp has strict policies regarding bulk messaging, and misuse may result in account suspension or other consequences. The developers of this project are not responsible for any misuse of the tool.
 
 ## Contributing:
 Contributions to the project are welcome! If you encounter any bugs, have suggestions for improvements, or want to add new features, feel free to create an issue or submit a pull request.
 
 ## Acknowledgments:
-We would like to thank the creators of the Selenium library and open-source tools that made this project possible.
+We want to thank the creators of the Selenium library and open-source tools that made this project possible.
 
 ## Contact:
-If you have any questions or suggestions, feel free to contact us at milanvaddoriya182@gmail.com. We would love to hear from you!
+If you have any questions or suggestions, feel free to contact us at ajayvaddoriya81@gmail.com. We would love to hear from you!
